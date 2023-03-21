@@ -1,3 +1,4 @@
-db name:- gym_ganesh
+welcome friends
+database name:- gym_ganesh
 admin name:- admin
 password:- 12345_ganeshnishitha
